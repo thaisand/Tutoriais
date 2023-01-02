@@ -17,11 +17,11 @@
 <b> git commit -m “mensagem do commit” </b>                               <i> // realiza commit </i> <br>
 <b> git branch -M “main” </b>                                             <i> // renomeia a branch atual para main </i> <br>
 <b> git remote add origin https://github.com/thaisand/Repositorio.git </b><i> // adiciona ligação remota entre o repositório e o diretório da máquina </i><br>
-<b> git push -u nome-da-branch main </b>                                          <i> // posta arquivos adicionados ao repositório do github </i> <br>
+<b> git push -u nome-da-branch </b>                                       <i> // posta arquivos adicionados ao repositório do github </i> <br>
 <b> git checkout -b "nome-da-branch"  </b>                                <i> // cria nova branch e muda para ela <br>
-<b> git push -u nome-da-branch  </b>                               <i> // publica arquivos adicionados à nova branch do repositório do github </i>   
+<b> git push -u nome-da-branch  </b>                                      <i> // publica arquivos adicionados à nova branch do repositório do github </i>   
 <b> git checkout main </b>                                                <i> // volta para branch main </i> <br>
 <b> git merge teste    </b>                                               <i> // prepara branch teste para ser add ao main </i> <br>
-<b> git push nome-da-branch    </b>                                          <i> // realiza o merge no repositório do github </i> <br>
+<b> git push nome-da-branch    </b>                                       <i> // realiza o merge no repositório do github </i> <br>
 <b> git clone https://github.com/respositorio  </b>                       <i> // clona um repositório na máquina </i> <br>
 <b> git pull   </b>                                                       <i> // atualiza repositório clonado </i> <br>
