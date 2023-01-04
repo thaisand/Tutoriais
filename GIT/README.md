@@ -23,5 +23,5 @@
 <b> git checkout main </b>                                                <i> // volta para branch main </i> <br>
 <b> git merge main     </b>                                               <i> // prepara branch teste para ser add ao main </i> <br>
 <b> git push nome-da-branch    </b>                                       <i> // realiza o merge no repositório do github </i> <br>
-<b> git clone https://github.com/respositorio  </b>                       <i> // clona um repositório na máquina </i> <br>
+<b> git clone https://github.com/repositorio  </b>                       <i> // clona um repositório na máquina </i> <br>
 <b> git pull   </b>                                                       <i> // atualiza repositório clonado </i> <br>
