@@ -16,7 +16,7 @@
 <b> git status </b>                                                       <i> // mostra status dos arquivos </i> <br>
 <b> git commit -m “mensagem do commit” </b>                               <i> // realiza commit </i> <br>
 <b> git branch -M “main” </b>                                             <i> // renomeia a branch atual para main </i> <br>
-<b> git branch -d nome-da-branch                                            <i> // exclui a branch
+<b> git branch -d nome-da-branch   </b>                                   <i> // exclui a branch </i> <br>
 <b> git remote add origin https://github.com/thaisand/Repositorio.git </b><i> // adiciona ligação remota entre o repositório e o diretório da máquina </i><br>
 <b> git push origin nome-da-branch </b>                                 <i> // posta arquivos commitados à branch do github </i> <br>   
 <b> git push -u origin nome-da-branch </b>                                <i> // cria branch e posta arquivos commitados a ela </i> <br>
